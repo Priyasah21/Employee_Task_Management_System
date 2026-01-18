@@ -24,7 +24,7 @@ SQL Server 2019 or later
 <h3>Installation</h3>
 Clone the repository:
 
-git clone https://github.com/karanJ2212/employeeCRUD.git
+git clone https://github.com/Priyasah21/Employee_Task_management_System.git
 Open the solution file (EmployeeManagementSystem.sln) in Visual Studio.
 Restore the NuGet packages by right-clicking on the solution and selecting "Restore NuGet Packages".
 Set up the database by applying Entity Framework migrations:
@@ -46,11 +46,11 @@ Distributed under the MIT License. See LICENSE for more information.
 ## 🤝 Contributing <a name="contributing"></a>
 
 
-👤 **Karan Jain**
+👤 **Priya Sah**
 
-- GitHub: [@Karan](https://github.com/karanj2212)
-- Twitter: [@Karan](https://twitter.com/karanjain2212)
+- GitHub: [@Priyasah21](https://github.com/Priyasah21)
+  
 
-Project Link:https://github.com/karanJ2212/employeeCRUD.git
+
 
 Feel free to modify the contact information and project link according to your project's actual details.
